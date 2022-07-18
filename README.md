@@ -1,1 +1,1 @@
-# cose212-2022fall
+# COSE212-2022fall
